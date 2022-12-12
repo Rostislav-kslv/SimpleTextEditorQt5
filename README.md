@@ -1,0 +1,1 @@
+# SimpleTextEditorQt5
